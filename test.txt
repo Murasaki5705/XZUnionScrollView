@@ -1,4 +1,7 @@
 hello world~
 hello hello
-hex
-haha
+<<<<<<< HEAD
+haha no
+=======
+haha no
+>>>>>>> dev
